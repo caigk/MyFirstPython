@@ -18,7 +18,4 @@ deactivate
 pip install flash
 
 
-
-
-
 # MyFirstPython
